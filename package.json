@@ -14,9 +14,12 @@
     "@remix-run/node": "^2.16.7",
     "@remix-run/react": "^2.16.7",
     "@remix-run/serve": "^2.16.7",
+    "@types/pg": "^8.15.4",
     "express": "^4.21.2",
+    "googleapis": "^149.0.0",
     "isbot": "^4.1.0",
     "jsqr": "^1.4.0",
+    "pg": "^8.16.0",
     "qrcode": "^1.5.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
