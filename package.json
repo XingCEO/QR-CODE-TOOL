@@ -17,14 +17,12 @@
     "express": "^4.21.2",
     "isbot": "^4.1.0",
     "jsqr": "^1.4.0",
-    "pg": "^8.16.0",
     "qrcode": "^1.5.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.16.7",
-    "@types/pg": "^8.15.4",
     "@types/qrcode": "^1.5.5",
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
